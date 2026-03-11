@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "movie-poster-1",
+      "description": "Poster for the movie 'Starlight Odyssey'",
+      "imageUrl": "https://images.unsplash.com/photo-1749215419683-23847ec40e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2ktZmklMjBzcGFjZXxlbnwwfHx8fDE3NzAyNzUwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi space"
+    },
+    {
+      "id": "movie-poster-2",
+      "description": "Poster for the movie 'Echoes of the Past'",
+      "imageUrl": "https://images.unsplash.com/photo-1766170449314-6cb404cae495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkcmFtYSUyMGhpc3Rvcnl8ZW58MHx8fHwxNzcwMzg3NjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drama history"
+    },
+    {
+      "id": "movie-poster-3",
+      "description": "Poster for the movie 'The Last Stand'",
+      "imageUrl": "https://images.unsplash.com/photo-1765568584861-a0f61d650b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhY3Rpb24lMjB3ZXN0ZXJufGVufDB8fHx8MTc3MDM4NzY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action western"
+    },
+    {
+      "id": "movie-poster-4",
+      "description": "Poster for the movie 'Cybernetic Dreams'",
+      "imageUrl": "https://images.unsplash.com/photo-1618902345681-1b45a24ade03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjeWJlcnB1bmslMjBuZW9ufGVufDB8fHx8MTc3MDM4MDM4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cyberpunk neon"
+    },
+    {
+      "id": "concert-artist-1",
+      "description": "Artist image for 'The Lumineers Live'",
+      "imageUrl": "https://images.unsplash.com/photo-1558457583-dfd9dabca6ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiYW5kJTIwc3RhZ2V8ZW58MHx8fHwxNzcwMjk3MTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "band stage"
+    },
+    {
+      "id": "concert-artist-2",
+      "description": "Artist image for 'Aurora Borealis Tour'",
+      "imageUrl": "https://images.unsplash.com/photo-1551631304-666fa9eb8641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaW5nZXIlMjBsaWdodHxlbnwwfHx8fDE3NzAzODc2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "singer light"
+    },
+    {
+      "id": "concert-artist-3",
+      "description": "Artist image for 'Jazz Nights'",
+      "imageUrl": "https://images.unsplash.com/photo-1633485678666-264d289d6dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxqYXp6JTIwc2F4b3Bob25lfGVufDB8fHx8MTc3MDM4NzY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jazz saxophone"
+    },
+    {
+      "id": "event-image-1",
+      "description": "Image for a stand-up comedy event",
+      "imageUrl": "https://images.unsplash.com/photo-1766532573885-8bd94537f1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb21lZHklMjBzdGFnZXxlbnwwfHx8fDE3NzAzODc2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "comedy stage"
+    },
+    {
+      "id": "hero-carousel-1",
+      "description": "A grand theater stage with red curtains",
+      "imageUrl": "https://images.unsplash.com/photo-1588928781379-c355ab3edc9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aGVhdGVyJTIwc3RhZ2V8ZW58MHx8fHwxNzcwMjk5MTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "theater stage"
+    },
+    {
+      "id": "hero-carousel-2",
+      "description": "A crowd at a music concert with vibrant lights",
+      "imageUrl": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwY3Jvd2R8ZW58MHx8fHwxNzcwMzAzNjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert crowd"
+    },
+    {
+      "id": "hero-carousel-3",
+      "description": "A modern cinema hall with comfortable seats",
+      "imageUrl": "https://images.unsplash.com/photo-1695866648647-ab341ee14b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBoYWxsfGVufDB8fHx8MTc3MDM4NzY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cinema hall"
+    }
+  ]
+}
